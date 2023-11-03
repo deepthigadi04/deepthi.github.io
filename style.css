@@ -231,6 +231,7 @@ body{
 
 .image img{
     position: absolute;
+    margin-left:10px;
     top: 1px;
     left: 50%;
     transform: translateX(-50%);
